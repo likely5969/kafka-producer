@@ -16,4 +16,4 @@ public class KafkaBeginnersApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(KafkaBeginnersApplication.class, args);
 	}    
-}    
+}       
